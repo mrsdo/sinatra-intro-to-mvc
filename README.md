@@ -76,5 +76,3 @@ In Sinatra, controllers are written in Ruby and consist of 'routes' that take
 requests sent from the browser ("GET this data", "POST that data"), run code
 based on those requests by using models, and then render the `.erb` (view) files
 for the user to see.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-intro-to-mvc' title='Intro To MVC'>Intro To MVC</a> on Learn.co and start learning to code for free.</p>
